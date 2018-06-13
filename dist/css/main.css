@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Brush+Script');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+body {
+    margin: 0;
+    background-color: #1b1b1b;
+    color: rgb(0, 255, 21);
+    font-size: 10px;
+    line-height: 10px;
+    font-family: 'Comfortaa', cursive;
+    
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 4em;
+    line-height: 45px;
+    font-family: 'Nanum Brush Script', cursive;
+    margin: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 3em;
+    line-height: 35px;
+    font-family: 'Nanum Brush Script', cursive;
+    margin: 10px;
+    text-align: center;
+}
+
+a {
+    font-size: 4em;
+    line-height: 45px;
+    cursor: pointer;
+    color:rgb(9, 255, 21);
+    margin: 5%;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-size: 0.9em;
+    line-height: 11px;
+    color: rgb(107, 107, 107);
+    width: 100%;
+    text-align: center;
+
+}
+
+.wrapper-footer {
+    width: 100%;
+}
+
+footer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+
+}

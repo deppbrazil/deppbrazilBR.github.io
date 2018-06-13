@@ -1,0 +1,70 @@
+@media screen and (max-width:320px) {
+    h1 {
+        font-size: 8vw;
+        line-height: 40px;
+    }
+
+    a {
+        font-size: 6.5vw;
+        line-height: 20px;
+    }
+}
+
+@media screen and (min-width:320px) {
+    h1 {
+        font-size: 7.5vw;
+        line-height: 30px;
+    }
+
+    a {
+        font-size: 5vw;
+        line-height: 20px;
+    }
+}
+
+@media screen and (min-width:480px) {
+    h1 {
+        font-size: 3.8em;
+        line-height: 40px;
+    }
+    a {
+        font-size: 2em;
+        line-height: 22px;
+    }
+}
+
+
+@media screen and (min-width:600px) {
+    h1 {
+        font-size: 4em;
+        line-height: 42px;
+    }
+
+    a {
+        font-size: 2.2em;
+        line-height: 24px;
+    }
+}
+
+@media screen and (min-width:768px) {
+    h1 {
+        font-size: 4.8em;
+        line-height: 50px;
+    }
+    a {
+        font-size: 2.5em;
+        line-height: 27px;
+    }
+}
+
+@media screen and (min-width:992px) {
+    h1 {
+        font-size: 6em;
+        line-height: 62px;
+    }
+
+    a {
+        font-size: 2.8em;
+        line-height: 30px;
+    }
+}

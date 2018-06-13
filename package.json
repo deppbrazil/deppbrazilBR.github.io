@@ -1,0 +1,23 @@
+{
+  "name": "deppbrazilbr.github.io",
+  "version": "1.0.0",
+  "description": "deppbrazilBR",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deppbrazil/deppbrazilBR.github.io.git"
+  },
+  "keywords": [
+    "deppbrazilBR",
+    "br"
+  ],
+  "author": "Mir Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deppbrazil/deppbrazilBR.github.io/issues"
+  },
+  "homepage": "https://github.com/deppbrazil/deppbrazilBR.github.io#readme"
+}
