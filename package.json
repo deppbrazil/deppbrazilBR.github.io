@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/deppbrazil/deppbrazilBR.github.io/issues"
   },
-  "homepage": "https://github.com/deppbrazil/deppbrazilBR.github.io#readme"
+  "homepage": "https://github.com/deppbrazil/deppbrazilBR.github.io#readme",
+  "dependencies": {
+    "npm": "^6.4.0"
+  }
 }
