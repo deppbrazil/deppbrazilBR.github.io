@@ -8,7 +8,30 @@ body {
     font-size: 10px;
     line-height: 10px;
     font-family: 'Comfortaa', cursive;
-    
+}
+
+.wrapper-address-card {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.fa-address-card {
+    font-size: 40px;
+    position: relative;
+    -webkit-transition: 0.3s ease-in-out; // navegadores webkit, como Safari e Chrome
+    -moz-transition: 0.3s ease-in-out; // Firefox
+    -o-transition: 0.3s ease-in-out; // Opera
+}
+
+.fa-address-card:hover {
+    opacity: 0.5;
 }
 
 .container {
@@ -40,7 +63,7 @@ a {
     font-size: 4em;
     line-height: 45px;
     cursor: pointer;
-    color:rgb(9, 255, 21);
+    color: rgb(9, 255, 21);
     margin: 5%;
 }
 
@@ -54,7 +77,7 @@ a {
 
 .container-icons {
     width: 100%;
-    display:flex;
+    display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
@@ -66,7 +89,6 @@ p {
     color: rgb(107, 107, 107);
     width: 100%;
     text-align: center;
-
 }
 
 .wrapper-footer {
@@ -81,5 +103,4 @@ footer {
     align-items: center;
     position: absolute;
     bottom: 0;
-
 }
