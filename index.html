@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>deppbrazilBR</title>
+    <title>Deppbrazil BR</title>
+    
     <!-- favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="dist/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="dist/favicon/favicon-32x32.png">
@@ -13,25 +13,35 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <!-- favicon -->
+    
     <!-- fontawesome 5-->
     <script src="https://use.fontawesome.com/releases/v5.0.4/js/brands.js"></script>
     <script src="https://use.fontawesome.com/releases/v5.0.4/js/solid.js"></script>
     <script src="https://use.fontawesome.com/releases/v5.0.4/js/regular.js"></script>
     <script src="https://use.fontawesome.com/releases/v5.0.4/js/fontawesome.js"></script>
-    <!-- fontawesome 5-->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- css -->
     <link rel="stylesheet" href="dist/css/main.css">
     <link rel="stylesheet" href="dist/css/media-queries.css">
+    
+    <!-- js -->
+    <script src="dist/js/button.js"></script>
 </head>
 
 <body>
-    <div class="wrapper-address-card">
-        <a target="_blank" href="https://github.com/deppbrazil/cv/blob/master/dist/cv-pt-br.pdf"><i class="fas fa-address-card"></i></a>
+    <!-- switch portuguese/english -->
+    <div class="container-button">
+        <input onclick="openUS()" id="switch-shadow" class="switch switch--shadow" type="checkbox">
+        <label for="switch-shadow"></label>
     </div>
+    
+    <div class="wrapper-address-card">
+        <a target="_blank" href="dist/cv/mir-cv-en.pdf"><i class="fas fa-address-card"></i></a>
+    </div>
+
     <section class="container">
-        <h1>Oi, eu sou deppbrazil</h1>
-        <h2>Vida pirata❤️, um grande fã de podcast e amo o ágil, Entendeu? haha…!☠️</h2>
+        <h1>Oi, eu sou o deppbrazil</h1>
+        <h2>Vida Pirata e Desenvolvedor Frontend ☠️</h2>
         <div class="wrapper">
             <div class="container-icons">
                 <a target="_blank" href="https://www.facebook.com/deppbrazil"><i class="fab fa-facebook-square"></i></a>
@@ -51,10 +61,7 @@
     </section>
 
     <footer>
-        <div class="wrapper-footer">
-            <p>Mir Carvalho © 2018</p>
-        </div>
+        <div class="wrapper-footer"><p>Mir Carvalho © 2019</p></div>
     </footer>
 </body>
-
 </html>

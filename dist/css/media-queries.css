@@ -1,9 +1,5 @@
 @media screen and (max-width:199px) {
-
-    .wrapper,
-    .container-icons,
-    h2,
-    a {
+    .wrapper, .container-icons, h2, a {
         display: none;
     }
 
@@ -32,7 +28,7 @@
         width: 90%;
         flex-direction: column;
     }
-
+    
     .container-icons {
         width: 100%;
         flex-direction: row;
@@ -60,7 +56,7 @@
         width: 100%;
         flex-direction: column;
     }
-
+    
     .container-icons {
         width: 80%;
         flex-direction: row;
@@ -88,7 +84,7 @@
         width: 100%;
         flex-direction: column;
     }
-
+    
     .container-icons {
         width: 100%;
         flex-direction: row;
@@ -108,7 +104,7 @@
         font-size: 3em;
         line-height: 30px;
     }
-
+    
     a {
         font-size: 3em;
         line-height: 30px;
@@ -118,7 +114,7 @@
         width: 50%;
         flex-direction: column;
     }
-
+    
     .container-icons {
         width: 100%;
         flex-direction: row;
@@ -141,13 +137,13 @@
     a {
         font-size: 3em;
         line-height: 30px;
-    }
+        }
 
     .wrapper {
         width: 60%;
         flex-direction: row;
     }
-
+    
     .container-icons {
         width: 100%;
         flex-direction: row;
@@ -175,7 +171,7 @@
         width: 60%;
         flex-direction: row;
     }
-
+    
     .container-icons {
         width: 100%;
         flex-direction: row;
@@ -203,7 +199,7 @@
         width: 60%;
         flex-direction: row;
     }
-
+    
     .container-icons {
         width: 100%;
         flex-direction: row;
