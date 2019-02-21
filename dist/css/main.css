@@ -132,6 +132,14 @@ a {
   cursor: pointer;
   color: rgb(248, 48, 48);
   margin: 5%;
+  -webkit-transition: 0.3s ease-in-out; // navegadores webkit, como Safari e Chrome
+  -moz-transition: 0.3s ease-in-out; // Firefox
+  -o-transition: 0.3s ease-in-out; // Opera
+}
+
+a:hover {
+  opacity: 0.5;
+  font-size: 4.1em;
 }
 
 .wrapper {

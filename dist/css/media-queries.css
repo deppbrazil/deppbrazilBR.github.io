@@ -140,14 +140,14 @@
         }
 
     .wrapper {
-        width: 60%;
+        width: 80%;
         flex-direction: row;
     }
     
     .container-icons {
         width: 100%;
         flex-direction: row;
-        justify-content: space-around;
+        justify-content: space-between;
     }
 }
 
