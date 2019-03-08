@@ -1,26 +1,11 @@
 {
-  "name": "deppbrazilbr.github.io",
+  "name": "deppbrazilBR.github.io",
   "version": "1.0.0",
-  "description": "deppbrazilBR",
-  "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/deppbrazil/deppbrazilBR.github.io.git"
-  },
-  "keywords": [
-    "deppbrazilBR",
-    "br"
-  ],
-  "author": "Mir Carvalho",
+  "main": "index.js",
+  "repository": "git@github.com:deppbrazil/deppbrazilBR.github.io.git",
+  "author": "Mir Carvalho <deppbrazil@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/deppbrazil/deppbrazilBR.github.io/issues"
-  },
-  "homepage": "https://github.com/deppbrazil/deppbrazilBR.github.io#readme",
-  "dependencies": {
-    "npm": "^6.4.0"
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.7.2"
   }
 }
