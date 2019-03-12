@@ -1,15 +1,18 @@
 # Oi eu sou o Mir # 
+[![Brand](id/tinypng/black-small.png)](https://deppbrazil.com)
 > Artista, Vida de Pirata e Desenvolvedor Frontend ☠️
 
 ### Esse é meu humilde navio ###
 * [🇺🇸](https://www.deppbrazil.com)
 * [🇧🇷](https://www.deppbrazil.com.br)
 
-[![Brand](id/tinypng/black-small.png)](https://deppbrazil.com)
-
 ### Ponta pé inicial ###
 * yarn
 * or, npm install
+
+### Repository ###
+[deppbrazil.com](https://github.com/deppbrazil/deppbrazil.github.io)
+[deppbrazil.com](https://github.com/deppbrazil/deppbrazilBR.github.io)
 
 ### Onde me achar? ###
 [![Facebook](https://icongr.am/jam/facebook.svg)](https://web.facebook.com/eusoumircarvalho)
@@ -18,7 +21,6 @@
 [![Linkedin](https://icongr.am/jam/linkedin.svg)](https://www.linkedin.com/in/deppbrazil/detail/recent-activity/)
 [![Github](https://icongr.am/jam/github.svg)](https://github.com/deppbrazil)
 [![Codepen](https://icongr.am/jam/codepen.svg)](https://codepen.io/deppbrazil/)
-
 [![Pinterest](https://icongr.am/fontawesome/pinterest.svg)](https://br.pinterest.com/deppbrazil/)
 [![Medium](https://icongr.am/jam/medium.svg)](https://medium.com/@deppbrazil)
 [![Spotify](https://icongr.am/jam/spotify.svg)](spotify:user:223a56evgrwf73mdbejoead7y)
