@@ -11,8 +11,8 @@
 * or, npm install
 
 ### Repository ###
-[deppbrazil.com](https://github.com/deppbrazil/deppbrazil.github.io)
-[deppbrazil.com](https://github.com/deppbrazil/deppbrazilBR.github.io)
+* [deppbrazil.com](https://github.com/deppbrazil/deppbrazil.github.io)
+* [deppbrazil.com](https://github.com/deppbrazil/deppbrazilBR.github.io)
 
 ### Onde me achar? ###
 [![Facebook](https://icongr.am/jam/facebook.svg)](https://web.facebook.com/eusoumircarvalho)
