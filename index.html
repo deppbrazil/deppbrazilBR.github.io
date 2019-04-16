@@ -83,11 +83,11 @@
     
     <!-- start preloader -->
     <script>
-        $(window).on('load', function () {
-          $('#preloader .inner').fadeOut();
-          $('#preloader').delay(500).fadeOut('slow'); 
-          $('body').delay(500).css({'overflow': 'visible'});
-        })
+        $(window).on('load', function() {
+        $('#preloader .inner').delay(5000).fadeOut('slow');
+        $('#preloader').delay(5000).fadeOut('slow'); 
+        $('body').delay(5000).css({'overflow': 'visible'});
+    })
     </script>
 </body>
 </html>
