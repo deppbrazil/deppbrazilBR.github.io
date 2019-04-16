@@ -1,0 +1,4 @@
+RewriteEngine On 
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP_HOST} ^(www\.)?deppbrazil\.com.br$ [NC]
+RewriteRule ^.*$ https://www.deppbrazil.com.br%{REQUEST_URI} [R,L]
