@@ -20,6 +20,7 @@
 
     <!-- my css -->
     <link rel="stylesheet" href="dist/css/main.css">
+    <link rel="stylesheet" href="dist/css/compass.css">
     <link rel="stylesheet" href="dist/css/media-queries.css">
     
     <!-- my js -->
@@ -27,6 +28,16 @@
 </head>
 
 <body>
+    <!-- preloader -->
+    <div id="preloader">
+        <div class="inner">
+            <div class="container-preloader">
+                <p class="text-compass">O que você mais quer?</p>
+                <i class="far fa-compass compass-jack-sparrow"></i>
+            </div>
+        </div>
+    </div>
+
     <!-- switch portuguese/english -->
     <div class="container-button">
         <input onclick="openUS()" id="switch-shadow" class="switch switch--shadow" type="checkbox">
@@ -40,7 +51,7 @@
 
     <section class="container">
         <h1>Oi, eu sou o Mir</h1>
-        <h2>Artista, Vida de Pirata e Desenvolvedor Front-end ☠️</h2>
+        <h2>Artista, Vida de Pirata e Desenvolvedor Front-end <i class="fas fa-skull-crossbones"></i></h2>
         <h3>Onde encontrar-me?</h3>
         <div class="wrapper">
             <div class="container-icons">
@@ -66,5 +77,17 @@
     <footer>
         <div class="wrapper-footer"><p>Mir Carvalho © 2019</p></div>
     </footer>
+
+    <!-- jquery -->
+    <script type="text/javascript" src="node_modules/jquery/dist/jquery.min.js"></script>
+    
+    <!-- start preloader -->
+    <script>
+        $(window).on('load', function () {
+          $('#preloader .inner').fadeOut();
+          $('#preloader').delay(500).fadeOut('slow'); 
+          $('body').delay(500).css({'overflow': 'visible'});
+        })
+    </script>
 </body>
 </html>
