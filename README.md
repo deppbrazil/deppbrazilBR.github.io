@@ -14,7 +14,7 @@
 * [deppbrazil.com](https://github.com/deppbrazil/deppbrazil.github.io)
 * [deppbrazil.com.br](https://github.com/deppbrazil/deppbrazilBR.github.io)
 
-### Onde me achar? ###
+### Onde me encontrar? ###
 [![Facebook](https://icongr.am/jam/facebook.svg)](https://web.facebook.com/eusoumircarvalho)
 [![Instagram](https://icongr.am/jam/instagram.svg)](https://www.instagram.com/deppbrazil/)
 [![Twitter](https://icongr.am/jam/twitter.svg)](https://twitter.com/deppbrazil)
